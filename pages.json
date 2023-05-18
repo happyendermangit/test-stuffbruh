@@ -1,0 +1,20 @@
+{
+    "index":{
+        "md_file":"index.md",
+        "full_name":"Home page",
+        "author":{
+            "name":"JS",
+            "discord":"| __.JS.__ |#4546",
+            "profile_url":"/team/js"
+        }
+    },
+    "whatever":{
+        "md_file":"wtf.md",
+        "full_name":"Whatever example page",
+        "author":{
+            "name":"just a normal name",
+            "discord":"normal_name#0000",
+            "profle_url":"/team/whatever"
+        }
+    }
+}
