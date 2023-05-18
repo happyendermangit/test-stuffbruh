@@ -1,6 +1,6 @@
 {
     "index":{
-        "md_file":"index.md",
+        "file_name":"index.md",
         "full_name":"Home page",
         "short_description":"A description",
         "author":{
@@ -10,7 +10,7 @@
         }
     },
     "whatever":{
-        "md_file":"wtf.md",
+        "file_name":"wtf.md",
         "full_name":"Whatever example page",
         "short_description":"A description",
         "author":{
