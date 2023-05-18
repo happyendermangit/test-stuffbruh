@@ -2,6 +2,7 @@
     "index":{
         "md_file":"index.md",
         "full_name":"Home page",
+        "short_description":"A description",
         "author":{
             "name":"JS",
             "discord":"| __.JS.__ |#4546",
@@ -11,6 +12,7 @@
     "whatever":{
         "md_file":"wtf.md",
         "full_name":"Whatever example page",
+        "short_description":"A description",
         "author":{
             "name":"just a normal name",
             "discord":"normal_name#0000",
