@@ -3,9 +3,10 @@
 
 # A table just to see how it would look?
 
-| COOL                                 |
-|--------------------------------------|
-| Daisyui is fire 🔥🔥🔥🔥 i love daisyui! |
+| Syntax      | Description |
+| ----------- | ----------- |
+| Header      | Title       |
+| Paragraph   | Text        |
 
 ## Now some list?
 - element one
