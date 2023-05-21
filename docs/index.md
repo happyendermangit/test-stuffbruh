@@ -15,7 +15,7 @@
 - four 
 - ...
 ### Now you have some cool codeblock
-```python
+```py
 import os
 os.system('echo THIS IS FIRE🔥🔥')
 ```
